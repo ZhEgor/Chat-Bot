@@ -1,0 +1,39 @@
+{
+    "Dentistry": [
+        {
+            "nameOfDentistry": "ARTdentistry",
+            "address": "Zaporozhia, Victory street,80",
+            "workingHours": "8:00-20:00",
+            "aboutUs": "OUR CLINIC MAKES YOUR HIGHEST SAFETY STANDARDS\nThe clinic uses 5 stages of sterilization of instruments.\nThe settings are processed after each reception.\nAll removable elements and tips are sterilized at 134 degrees Celsius.",
+            "contactsDentistry": "artimplantat@gmail.com",
+	    "idOfDentistry": 1
+        },
+
+        {
+            "nameOfDentistry": "SMILE",
+            "address": "Zaporozhia,Alesandrovska street,30",
+            "workingHours": "8:00-20:00",
+            "aboutUs": "A complex approach!\nWe consider the state of the oral cavity of each of our patients in close connection with the state of the whole organism.\nWe do a full-fledged diagnosis and offer ideal solutions to a complex of problems, thereby reducing the time and cost of treatment.",
+            "contactsDentistry": "info@studio-smile.com.ua",
+	    "idOfDentistry": 2
+        },
+
+        {
+            "nameOfDentistry": "zubki-zubi",
+            "address": "Zaporozhia,School street,32",
+            "workingHours": "8:00-20:00",
+            "aboutUs": "This is family dentistry.",
+            "contactsDentistry": "zubki-zubi@ukr.net",
+	    "idOfDentistry": 3
+        },
+
+        {
+            "nameOfDentistry": "Vidnova",
+            "address": "Zaporozhia,Peace street,13",
+            "workingHours": "9:00-21:00",
+            "aboutUs": "Vidnova dentistry has a large staff of leading specialists and each doctor is in love with his work.\nThey are real dental perfectionists, their mission is to make your smile perfect.",
+            "contactsDentistry": "info@vidnova.dental",
+	    "idOfDentistry": 4
+        }
+    ]
+}

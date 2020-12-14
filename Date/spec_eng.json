@@ -1,0 +1,46 @@
+{
+    "Dentist-therapist": [
+        "General consultation ",
+        "Caries",
+        "Pulpitis",
+        "Periodontitis",
+        "Restoration of teeth",
+        "Replacing the seal",
+        "Work with the microscope",
+        "Oral hygiene",
+        "Teeth whitening"
+    ],
+    "Dentist-surgeon-implantologist": [
+        "Deleting",
+        "Implantation",
+        "bone grafting of teeth",
+        "sinus lift",
+        "Flux",
+        "Abscess"
+    ],
+    "Dentist-periodontist": [
+        "Periodontal disease",
+        "Periodontitis",
+        "Gingivitis",
+        "Stomatitis",
+        "Eliminate gum recession"
+    ],
+    "Dentist-orthopedist": [  
+        "Stump tabs",
+        "Crowns",
+        "Veneers",
+        "Removable dentures",
+        "Clasp prostheses",
+        "Temporary prosthetics",
+        "Implant prosthetics",
+        "Repairing dentures"
+    ],
+    "Dentist-orthodontist": [
+        "Vestibular and lingual braces",
+        "Functional devices and removable plates",
+        "Treatment on aligners"
+    ],
+    "Children's dentist": [
+        "Work with children" 
+    ]
+}

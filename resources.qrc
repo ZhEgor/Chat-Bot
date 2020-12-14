@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/Date">
+        <file>Date/dentistry_eng.json</file>
+        <file>Date/dentistry_ukr.json</file>
+        <file>Date/interface_eng.json</file>
+        <file>Date/interface_ukr.json</file>
+        <file>Date/spec_eng.json</file>
+        <file>Date/spec_ukr.json</file>
+    </qresource>
+    <qresource prefix="/Images/Icon">
+        <file>Icons/CommentsDentistIcon.png</file>
+        <file>Icons/DetailedDentistIcon.png</file>
+        <file>Icons/DevelopersIcon.png</file>
+        <file>Icons/HelpIcon.png</file>
+        <file>Icons/WindowIcon.png</file>
+    </qresource>
+    <qresource prefix="/Images/ImageDentists">
+        <file>ImageDentists/BBabka.PNG</file>
+        <file>ImageDentists/Bedran.PNG</file>
+        <file>ImageDentists/Chorna.PNG</file>
+        <file>ImageDentists/Cushnarenko.PNG</file>
+        <file>ImageDentists/Dovbush.PNG</file>
+        <file>ImageDentists/Gesuch.PNG</file>
+        <file>ImageDentists/Golovko.PNG</file>
+        <file>ImageDentists/Ivanov.PNG</file>
+        <file>ImageDentists/Kazimov.PNG</file>
+        <file>ImageDentists/Kroka.PNG</file>
+        <file>ImageDentists/Kuzemka.PNG</file>
+        <file>ImageDentists/Mailov.PNG</file>
+        <file>ImageDentists/mosenko.PNG</file>
+        <file>ImageDentists/no-avatar.PNG</file>
+        <file>ImageDentists/Onipko.PNG</file>
+        <file>ImageDentists/Raeva.PNG</file>
+        <file>ImageDentists/Saksov.PNG</file>
+        <file>ImageDentists/Stebeneva.PNG</file>
+        <file>ImageDentists/Terentiva.PNG</file>
+        <file>ImageDentists/Uncle Sam.jpg</file>
+        <file>ImageDentists/Vifak.PNG</file>
+        <file>ImageDentists/Yakovenko.PNG</file>
+    </qresource>
+</RCC>
